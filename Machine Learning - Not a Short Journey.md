@@ -253,7 +253,6 @@ You can start with a tutorial, but instead of following it directly, after build
 - Swap out the dataset
 - Try to break your code and then fix it
 
-This is one of the best ways to learn while not getting stuck in tutorial hell.
 
 ### 7. Collaborate and Share Your Projects
 
@@ -284,7 +283,7 @@ Remember: Learn these by need, not by FOMO. You don't need to know everything. J
 ## The Does and Don't
 
 ### Don't:
-- Get stuck in tutorial hell
+- Get stuck in just tutorial
 - Try to memorize everything
 - Learn in isolation
 - Chase every new trend
